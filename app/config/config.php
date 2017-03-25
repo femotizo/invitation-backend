@@ -12,8 +12,8 @@
                 'db'            => [
                     'name'      => 'undangan',
                     'host'      => 'localhost',
-                    'username'  => 'adminZ7WiWgg',
-                    'password'  => 'MbPjZSRHHsMn'
+                    'username'  => 'admin',
+                    'password'  => ''
                 ]
             );
 
