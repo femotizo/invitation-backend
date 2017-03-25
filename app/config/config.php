@@ -10,9 +10,10 @@
                 'contentType'   => 'application/json',
                 'frontend'      => '*',
                 'db'            => [
+                    'name'      => 'undangan',
                     'host'      => 'localhost',
-                    'username'  => 'root',
-                    'password'  => ''
+                    'username'  => 'adminZ7WiWgg',
+                    'password'  => 'MbPjZSRHHsMn'
                 ]
             );
 

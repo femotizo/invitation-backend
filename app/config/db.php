@@ -18,7 +18,7 @@
                 die("Connection to database failed: " . $mysqli->connect_error);
             }
 
-            $mysqli->select_db('invitation');
+            $mysqli->select_db($this->config->get()['db']['name']);
 
             return $mysqli;
         }
